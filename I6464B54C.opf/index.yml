@@ -1,0 +1,19 @@
+id: 9a9a0bede3564eaa85b383e7a12ecfb3
+annotation_type: index
+revision: '00001'
+annotations:
+  bd25cef364d9470a9a737a0bdd1bf8db:
+    base: f03E3.txt
+    span:
+      start: 0
+      end: 10315
+  8be739cdae82456784e37af59eb443b5:
+    base: f3644.txt
+    span:
+      start: 0
+      end: 2655
+  a4d4044d4f3447e088346d7df64e58f9:
+    base: fD368.txt
+    span:
+      start: 0
+      end: 20
